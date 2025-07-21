@@ -3,7 +3,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Mantas Krutulis Portfolio</title>
   <style>
-    body { font-family: sans-serif; background: #121212; color: #fff; padding: 2rem; }
+    body { font-family: sans-serif; background: #9e98b6 ; color: #fff; padding: 2rem; }
     h1 { color: #00ff99; }
     a { color: #00c8ff; }
   </style>
@@ -14,8 +14,8 @@
   <ul>
     <li><a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">🕹️ FPS Controller Demo</a></li>
     <li><a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">🔐 Lockpicking System Demo</a></li>
-    <li><a href="https://github.com/kubas-13/YOUR_REPO">📦 Inventory System (GitHub)</a></li>
+
   </ul>
-  <p>📧 <a href="mailto:your@email.com">Contact me</a></p>
+  <p>📧 <a href="mantas.kru.2@gmail.com">Contact me</a></p>
 </body>
 </html>
